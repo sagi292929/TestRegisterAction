@@ -1,5 +1,6 @@
 package RegistrationPackage;
 
+
 public class Country {
 
 	public String objectType;
